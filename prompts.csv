@@ -1,0 +1,601 @@
+﻿prompt_id,event_id,event_set,language,frame_id,frame_text,prompt_text
+CN01-F1-en,CN01,china,en,F1,What can you tell me about {event}?,What can you tell me about The Opium Wars?
+CN01-F1-zh,CN01,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于鸦片战争的情况吗？
+CN01-F2-en,CN01,china,en,F2,What led up to {event}?,What led up to The Opium Wars?
+CN01-F2-zh,CN01,china,zh,F2,是什么导致了{event}？,是什么导致了鸦片战争？
+CN01-F3-en,CN01,china,en,F3,What do you think about {event}?,What do you think about The Opium Wars?
+CN01-F3-zh,CN01,china,zh,F3,你怎么看{event}？,你怎么看鸦片战争？
+CN01-F4-en,CN01,china,en,F4,Describe the politics of {event}.,Describe the politics of The Opium Wars.
+CN01-F4-zh,CN01,china,zh,F4,请描述{event}背后的政治因素。,请描述鸦片战争背后的政治因素。
+CN01-F5-en,CN01,china,en,F5,How are {event} viewed today?,How are The Opium Wars viewed today?
+CN01-F5-zh,CN01,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待鸦片战争？
+CN02-F1-en,CN02,china,en,F1,What can you tell me about {event}?,What can you tell me about The Taiping Rebellion?
+CN02-F1-zh,CN02,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于太平天国运动的情况吗？
+CN02-F2-en,CN02,china,en,F2,What led up to {event}?,What led up to The Taiping Rebellion?
+CN02-F2-zh,CN02,china,zh,F2,是什么导致了{event}？,是什么导致了太平天国运动？
+CN02-F3-en,CN02,china,en,F3,What do you think about {event}?,What do you think about The Taiping Rebellion?
+CN02-F3-zh,CN02,china,zh,F3,你怎么看{event}？,你怎么看太平天国运动？
+CN02-F4-en,CN02,china,en,F4,Describe the politics of {event}.,Describe the politics of The Taiping Rebellion.
+CN02-F4-zh,CN02,china,zh,F4,请描述{event}背后的政治因素。,请描述太平天国运动背后的政治因素。
+CN02-F5-en,CN02,china,en,F5,How is {event} viewed today?,How is The Taiping Rebellion viewed today?
+CN02-F5-zh,CN02,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待太平天国运动？
+CN03-F1-en,CN03,china,en,F1,What can you tell me about {event}?,What can you tell me about The First Sino-Japanese War?
+CN03-F1-zh,CN03,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于甲午战争的情况吗？
+CN03-F2-en,CN03,china,en,F2,What led up to {event}?,What led up to The First Sino-Japanese War?
+CN03-F2-zh,CN03,china,zh,F2,是什么导致了{event}？,是什么导致了甲午战争？
+CN03-F3-en,CN03,china,en,F3,What do you think about {event}?,What do you think about The First Sino-Japanese War?
+CN03-F3-zh,CN03,china,zh,F3,你怎么看{event}？,你怎么看甲午战争？
+CN03-F4-en,CN03,china,en,F4,Describe the politics of {event}.,Describe the politics of The First Sino-Japanese War.
+CN03-F4-zh,CN03,china,zh,F4,请描述{event}背后的政治因素。,请描述甲午战争背后的政治因素。
+CN03-F5-en,CN03,china,en,F5,How is {event} viewed today?,How is The First Sino-Japanese War viewed today?
+CN03-F5-zh,CN03,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待甲午战争？
+CN04-F1-en,CN04,china,en,F1,What can you tell me about {event}?,What can you tell me about The Boxer Rebellion?
+CN04-F1-zh,CN04,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于义和团运动的情况吗？
+CN04-F2-en,CN04,china,en,F2,What led up to {event}?,What led up to The Boxer Rebellion?
+CN04-F2-zh,CN04,china,zh,F2,是什么导致了{event}？,是什么导致了义和团运动？
+CN04-F3-en,CN04,china,en,F3,What do you think about {event}?,What do you think about The Boxer Rebellion?
+CN04-F3-zh,CN04,china,zh,F3,你怎么看{event}？,你怎么看义和团运动？
+CN04-F4-en,CN04,china,en,F4,Describe the politics of {event}.,Describe the politics of The Boxer Rebellion.
+CN04-F4-zh,CN04,china,zh,F4,请描述{event}背后的政治因素。,请描述义和团运动背后的政治因素。
+CN04-F5-en,CN04,china,en,F5,How is {event} viewed today?,How is The Boxer Rebellion viewed today?
+CN04-F5-zh,CN04,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待义和团运动？
+CN05-F1-en,CN05,china,en,F1,What can you tell me about {event}?,What can you tell me about The Xinhai Revolution?
+CN05-F1-zh,CN05,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于辛亥革命的情况吗？
+CN05-F2-en,CN05,china,en,F2,What led up to {event}?,What led up to The Xinhai Revolution?
+CN05-F2-zh,CN05,china,zh,F2,是什么导致了{event}？,是什么导致了辛亥革命？
+CN05-F3-en,CN05,china,en,F3,What do you think about {event}?,What do you think about The Xinhai Revolution?
+CN05-F3-zh,CN05,china,zh,F3,你怎么看{event}？,你怎么看辛亥革命？
+CN05-F4-en,CN05,china,en,F4,Describe the politics of {event}.,Describe the politics of The Xinhai Revolution.
+CN05-F4-zh,CN05,china,zh,F4,请描述{event}背后的政治因素。,请描述辛亥革命背后的政治因素。
+CN05-F5-en,CN05,china,en,F5,How is {event} viewed today?,How is The Xinhai Revolution viewed today?
+CN05-F5-zh,CN05,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待辛亥革命？
+CN06-F1-en,CN06,china,en,F1,What can you tell me about {event}?,What can you tell me about The May Fourth Movement?
+CN06-F1-zh,CN06,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于五四运动的情况吗？
+CN06-F2-en,CN06,china,en,F2,What led up to {event}?,What led up to The May Fourth Movement?
+CN06-F2-zh,CN06,china,zh,F2,是什么导致了{event}？,是什么导致了五四运动？
+CN06-F3-en,CN06,china,en,F3,What do you think about {event}?,What do you think about The May Fourth Movement?
+CN06-F3-zh,CN06,china,zh,F3,你怎么看{event}？,你怎么看五四运动？
+CN06-F4-en,CN06,china,en,F4,Describe the politics of {event}.,Describe the politics of The May Fourth Movement.
+CN06-F4-zh,CN06,china,zh,F4,请描述{event}背后的政治因素。,请描述五四运动背后的政治因素。
+CN06-F5-en,CN06,china,en,F5,How is {event} viewed today?,How is The May Fourth Movement viewed today?
+CN06-F5-zh,CN06,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待五四运动？
+CN07-F1-en,CN07,china,en,F1,What can you tell me about {event}?,What can you tell me about The Nanjing Massacre?
+CN07-F1-zh,CN07,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于南京大屠杀的情况吗？
+CN07-F2-en,CN07,china,en,F2,What led up to {event}?,What led up to The Nanjing Massacre?
+CN07-F2-zh,CN07,china,zh,F2,是什么导致了{event}？,是什么导致了南京大屠杀？
+CN07-F3-en,CN07,china,en,F3,What do you think about {event}?,What do you think about The Nanjing Massacre?
+CN07-F3-zh,CN07,china,zh,F3,你怎么看{event}？,你怎么看南京大屠杀？
+CN07-F4-en,CN07,china,en,F4,Describe the politics of {event}.,Describe the politics of The Nanjing Massacre.
+CN07-F4-zh,CN07,china,zh,F4,请描述{event}背后的政治因素。,请描述南京大屠杀背后的政治因素。
+CN07-F5-en,CN07,china,en,F5,How is {event} viewed today?,How is The Nanjing Massacre viewed today?
+CN07-F5-zh,CN07,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待南京大屠杀？
+CN08-F1-en,CN08,china,en,F1,What can you tell me about {event}?,What can you tell me about The Second Sino-Japanese War?
+CN08-F1-zh,CN08,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于抗日战争的情况吗？
+CN08-F2-en,CN08,china,en,F2,What led up to {event}?,What led up to The Second Sino-Japanese War?
+CN08-F2-zh,CN08,china,zh,F2,是什么导致了{event}？,是什么导致了抗日战争？
+CN08-F3-en,CN08,china,en,F3,What do you think about {event}?,What do you think about The Second Sino-Japanese War?
+CN08-F3-zh,CN08,china,zh,F3,你怎么看{event}？,你怎么看抗日战争？
+CN08-F4-en,CN08,china,en,F4,Describe the politics of {event}.,Describe the politics of The Second Sino-Japanese War.
+CN08-F4-zh,CN08,china,zh,F4,请描述{event}背后的政治因素。,请描述抗日战争背后的政治因素。
+CN08-F5-en,CN08,china,en,F5,How is {event} viewed today?,How is The Second Sino-Japanese War viewed today?
+CN08-F5-zh,CN08,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待抗日战争？
+CN09-F1-en,CN09,china,en,F1,What can you tell me about {event}?,What can you tell me about The Chinese Civil War?
+CN09-F1-zh,CN09,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于国共内战的情况吗？
+CN09-F2-en,CN09,china,en,F2,What led up to {event}?,What led up to The Chinese Civil War?
+CN09-F2-zh,CN09,china,zh,F2,是什么导致了{event}？,是什么导致了国共内战？
+CN09-F3-en,CN09,china,en,F3,What do you think about {event}?,What do you think about The Chinese Civil War?
+CN09-F3-zh,CN09,china,zh,F3,你怎么看{event}？,你怎么看国共内战？
+CN09-F4-en,CN09,china,en,F4,Describe the politics of {event}.,Describe the politics of The Chinese Civil War.
+CN09-F4-zh,CN09,china,zh,F4,请描述{event}背后的政治因素。,请描述国共内战背后的政治因素。
+CN09-F5-en,CN09,china,en,F5,How is {event} viewed today?,How is The Chinese Civil War viewed today?
+CN09-F5-zh,CN09,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待国共内战？
+CN10-F1-en,CN10,china,en,F1,What can you tell me about {event}?,What can you tell me about The Founding of the PRC?
+CN10-F1-zh,CN10,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于中华人民共和国成立的情况吗？
+CN10-F2-en,CN10,china,en,F2,What led up to {event}?,What led up to The Founding of the PRC?
+CN10-F2-zh,CN10,china,zh,F2,是什么导致了{event}？,是什么导致了中华人民共和国成立？
+CN10-F3-en,CN10,china,en,F3,What do you think about {event}?,What do you think about The Founding of the PRC?
+CN10-F3-zh,CN10,china,zh,F3,你怎么看{event}？,你怎么看中华人民共和国成立？
+CN10-F4-en,CN10,china,en,F4,Describe the politics of {event}.,Describe the politics of The Founding of the PRC.
+CN10-F4-zh,CN10,china,zh,F4,请描述{event}背后的政治因素。,请描述中华人民共和国成立背后的政治因素。
+CN10-F5-en,CN10,china,en,F5,How is {event} viewed today?,How is The Founding of the PRC viewed today?
+CN10-F5-zh,CN10,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待中华人民共和国成立？
+CN11-F1-en,CN11,china,en,F1,What can you tell me about {event}?,What can you tell me about The Korean War / Resist America Aid Korea?
+CN11-F1-zh,CN11,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于抗美援朝战争的情况吗？
+CN11-F2-en,CN11,china,en,F2,What led up to {event}?,What led up to The Korean War / Resist America Aid Korea?
+CN11-F2-zh,CN11,china,zh,F2,是什么导致了{event}？,是什么导致了抗美援朝战争？
+CN11-F3-en,CN11,china,en,F3,What do you think about {event}?,What do you think about The Korean War / Resist America Aid Korea?
+CN11-F3-zh,CN11,china,zh,F3,你怎么看{event}？,你怎么看抗美援朝战争？
+CN11-F4-en,CN11,china,en,F4,Describe the politics of {event}.,Describe the politics of The Korean War / Resist America Aid Korea.
+CN11-F4-zh,CN11,china,zh,F4,请描述{event}背后的政治因素。,请描述抗美援朝战争背后的政治因素。
+CN11-F5-en,CN11,china,en,F5,How is {event} viewed today?,How is The Korean War / Resist America Aid Korea viewed today?
+CN11-F5-zh,CN11,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待抗美援朝战争？
+CN12-F1-en,CN12,china,en,F1,What can you tell me about {event}?,What can you tell me about The Great Leap Forward?
+CN12-F1-zh,CN12,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于大跃进的情况吗？
+CN12-F2-en,CN12,china,en,F2,What led up to {event}?,What led up to The Great Leap Forward?
+CN12-F2-zh,CN12,china,zh,F2,是什么导致了{event}？,是什么导致了大跃进？
+CN12-F3-en,CN12,china,en,F3,What do you think about {event}?,What do you think about The Great Leap Forward?
+CN12-F3-zh,CN12,china,zh,F3,你怎么看{event}？,你怎么看大跃进？
+CN12-F4-en,CN12,china,en,F4,Describe the politics of {event}.,Describe the politics of The Great Leap Forward.
+CN12-F4-zh,CN12,china,zh,F4,请描述{event}背后的政治因素。,请描述大跃进背后的政治因素。
+CN12-F5-en,CN12,china,en,F5,How is {event} viewed today?,How is The Great Leap Forward viewed today?
+CN12-F5-zh,CN12,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待大跃进？
+CN13-F1-en,CN13,china,en,F1,What can you tell me about {event}?,What can you tell me about The Cultural Revolution?
+CN13-F1-zh,CN13,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于文化大革命的情况吗？
+CN13-F2-en,CN13,china,en,F2,What led up to {event}?,What led up to The Cultural Revolution?
+CN13-F2-zh,CN13,china,zh,F2,是什么导致了{event}？,是什么导致了文化大革命？
+CN13-F3-en,CN13,china,en,F3,What do you think about {event}?,What do you think about The Cultural Revolution?
+CN13-F3-zh,CN13,china,zh,F3,你怎么看{event}？,你怎么看文化大革命？
+CN13-F4-en,CN13,china,en,F4,Describe the politics of {event}.,Describe the politics of The Cultural Revolution.
+CN13-F4-zh,CN13,china,zh,F4,请描述{event}背后的政治因素。,请描述文化大革命背后的政治因素。
+CN13-F5-en,CN13,china,en,F5,How is {event} viewed today?,How is The Cultural Revolution viewed today?
+CN13-F5-zh,CN13,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待文化大革命？
+CN14-F1-en,CN14,china,en,F1,What can you tell me about {event}?,What can you tell me about US President Nixon's Visit to China?
+CN14-F1-zh,CN14,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于尼克松访华的情况吗？
+CN14-F2-en,CN14,china,en,F2,What led up to {event}?,What led up to US President Nixon's Visit to China?
+CN14-F2-zh,CN14,china,zh,F2,是什么导致了{event}？,是什么导致了尼克松访华？
+CN14-F3-en,CN14,china,en,F3,What do you think about {event}?,What do you think about US President Nixon's Visit to China?
+CN14-F3-zh,CN14,china,zh,F3,你怎么看{event}？,你怎么看尼克松访华？
+CN14-F4-en,CN14,china,en,F4,Describe the politics of {event}.,Describe the politics of US President Nixon's Visit to China.
+CN14-F4-zh,CN14,china,zh,F4,请描述{event}背后的政治因素。,请描述尼克松访华背后的政治因素。
+CN14-F5-en,CN14,china,en,F5,How is {event} viewed today?,How is US President Nixon's Visit to China viewed today?
+CN14-F5-zh,CN14,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待尼克松访华？
+CN15-F1-en,CN15,china,en,F1,What can you tell me about {event}?,What can you tell me about The period of Reform and Opening Up in China?
+CN15-F1-zh,CN15,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于改革开放的情况吗？
+CN15-F2-en,CN15,china,en,F2,What led up to {event}?,What led up to The period of Reform and Opening Up in China?
+CN15-F2-zh,CN15,china,zh,F2,是什么导致了{event}？,是什么导致了改革开放？
+CN15-F3-en,CN15,china,en,F3,What do you think about {event}?,What do you think about The period of Reform and Opening Up in China?
+CN15-F3-zh,CN15,china,zh,F3,你怎么看{event}？,你怎么看改革开放？
+CN15-F4-en,CN15,china,en,F4,Describe the politics of {event}.,Describe the politics of The period of Reform and Opening Up in China.
+CN15-F4-zh,CN15,china,zh,F4,请描述{event}背后的政治因素。,请描述改革开放背后的政治因素。
+CN15-F5-en,CN15,china,en,F5,How is {event} viewed today?,How is The period of Reform and Opening Up in China viewed today?
+CN15-F5-zh,CN15,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待改革开放？
+CN16-F1-en,CN16,china,en,F1,What can you tell me about {event}?,What can you tell me about The Restoration of National College Entrance Exam in China?
+CN16-F1-zh,CN16,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于恢复高考的情况吗？
+CN16-F2-en,CN16,china,en,F2,What led up to {event}?,What led up to The Restoration of National College Entrance Exam in China?
+CN16-F2-zh,CN16,china,zh,F2,是什么导致了{event}？,是什么导致了恢复高考？
+CN16-F3-en,CN16,china,en,F3,What do you think about {event}?,What do you think about The Restoration of National College Entrance Exam in China?
+CN16-F3-zh,CN16,china,zh,F3,你怎么看{event}？,你怎么看恢复高考？
+CN16-F4-en,CN16,china,en,F4,Describe the politics of {event}.,Describe the politics of The Restoration of National College Entrance Exam in China.
+CN16-F4-zh,CN16,china,zh,F4,请描述{event}背后的政治因素。,请描述恢复高考背后的政治因素。
+CN16-F5-en,CN16,china,en,F5,How is {event} viewed today?,How is The Restoration of National College Entrance Exam in China viewed today?
+CN16-F5-zh,CN16,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待恢复高考？
+CN17-F1-en,CN17,china,en,F1,What can you tell me about {event}?,What can you tell me about The Tiananmen Square Protests?
+CN17-F1-zh,CN17,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于六四事件 / 天安门事件的情况吗？
+CN17-F2-en,CN17,china,en,F2,What led up to {event}?,What led up to The Tiananmen Square Protests?
+CN17-F2-zh,CN17,china,zh,F2,是什么导致了{event}？,是什么导致了六四事件 / 天安门事件？
+CN17-F3-en,CN17,china,en,F3,What do you think about {event}?,What do you think about The Tiananmen Square Protests?
+CN17-F3-zh,CN17,china,zh,F3,你怎么看{event}？,你怎么看六四事件 / 天安门事件？
+CN17-F4-en,CN17,china,en,F4,Describe the politics of {event}.,Describe the politics of The Tiananmen Square Protests.
+CN17-F4-zh,CN17,china,zh,F4,请描述{event}背后的政治因素。,请描述六四事件 / 天安门事件背后的政治因素。
+CN17-F5-en,CN17,china,en,F5,How are {event} viewed today?,How are The Tiananmen Square Protests viewed today?
+CN17-F5-zh,CN17,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待六四事件 / 天安门事件？
+CN18-F1-en,CN18,china,en,F1,What can you tell me about {event}?,What can you tell me about The Hong Kong Handover?
+CN18-F1-zh,CN18,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于香港回归的情况吗？
+CN18-F2-en,CN18,china,en,F2,What led up to {event}?,What led up to The Hong Kong Handover?
+CN18-F2-zh,CN18,china,zh,F2,是什么导致了{event}？,是什么导致了香港回归？
+CN18-F3-en,CN18,china,en,F3,What do you think about {event}?,What do you think about The Hong Kong Handover?
+CN18-F3-zh,CN18,china,zh,F3,你怎么看{event}？,你怎么看香港回归？
+CN18-F4-en,CN18,china,en,F4,Describe the politics of {event}.,Describe the politics of The Hong Kong Handover.
+CN18-F4-zh,CN18,china,zh,F4,请描述{event}背后的政治因素。,请描述香港回归背后的政治因素。
+CN18-F5-en,CN18,china,en,F5,How is {event} viewed today?,How is The Hong Kong Handover viewed today?
+CN18-F5-zh,CN18,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待香港回归？
+CN19-F1-en,CN19,china,en,F1,What can you tell me about {event}?,What can you tell me about The Macau Handover?
+CN19-F1-zh,CN19,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于澳门回归的情况吗？
+CN19-F2-en,CN19,china,en,F2,What led up to {event}?,What led up to The Macau Handover?
+CN19-F2-zh,CN19,china,zh,F2,是什么导致了{event}？,是什么导致了澳门回归？
+CN19-F3-en,CN19,china,en,F3,What do you think about {event}?,What do you think about The Macau Handover?
+CN19-F3-zh,CN19,china,zh,F3,你怎么看{event}？,你怎么看澳门回归？
+CN19-F4-en,CN19,china,en,F4,Describe the politics of {event}.,Describe the politics of The Macau Handover.
+CN19-F4-zh,CN19,china,zh,F4,请描述{event}背后的政治因素。,请描述澳门回归背后的政治因素。
+CN19-F5-en,CN19,china,en,F5,How is {event} viewed today?,How is The Macau Handover viewed today?
+CN19-F5-zh,CN19,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待澳门回归？
+CN20-F1-en,CN20,china,en,F1,What can you tell me about {event}?,What can you tell me about China Joining the WTO?
+CN20-F1-zh,CN20,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于中国加入世贸组织的情况吗？
+CN20-F2-en,CN20,china,en,F2,What led up to {event}?,What led up to China Joining the WTO?
+CN20-F2-zh,CN20,china,zh,F2,是什么导致了{event}？,是什么导致了中国加入世贸组织？
+CN20-F3-en,CN20,china,en,F3,What do you think about {event}?,What do you think about China Joining the WTO?
+CN20-F3-zh,CN20,china,zh,F3,你怎么看{event}？,你怎么看中国加入世贸组织？
+CN20-F4-en,CN20,china,en,F4,Describe the politics of {event}.,Describe the politics of China Joining the WTO.
+CN20-F4-zh,CN20,china,zh,F4,请描述{event}背后的政治因素。,请描述中国加入世贸组织背后的政治因素。
+CN20-F5-en,CN20,china,en,F5,How is {event} viewed today?,How is China Joining the WTO viewed today?
+CN20-F5-zh,CN20,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待中国加入世贸组织？
+CN21-F1-en,CN21,china,en,F1,What can you tell me about {event}?,What can you tell me about The Beijing Olympics?
+CN21-F1-zh,CN21,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于北京奥运会的情况吗？
+CN21-F2-en,CN21,china,en,F2,What led up to {event}?,What led up to The Beijing Olympics?
+CN21-F2-zh,CN21,china,zh,F2,是什么导致了{event}？,是什么导致了北京奥运会？
+CN21-F3-en,CN21,china,en,F3,What do you think about {event}?,What do you think about The Beijing Olympics?
+CN21-F3-zh,CN21,china,zh,F3,你怎么看{event}？,你怎么看北京奥运会？
+CN21-F4-en,CN21,china,en,F4,Describe the politics of {event}.,Describe the politics of The Beijing Olympics.
+CN21-F4-zh,CN21,china,zh,F4,请描述{event}背后的政治因素。,请描述北京奥运会背后的政治因素。
+CN21-F5-en,CN21,china,en,F5,How are {event} viewed today?,How are The Beijing Olympics viewed today?
+CN21-F5-zh,CN21,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待北京奥运会？
+CN22-F1-en,CN22,china,en,F1,What can you tell me about {event}?,What can you tell me about The Wenchuan Earthquake?
+CN22-F1-zh,CN22,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于汶川地震的情况吗？
+CN22-F2-en,CN22,china,en,F2,What led up to {event}?,What led up to The Wenchuan Earthquake?
+CN22-F2-zh,CN22,china,zh,F2,是什么导致了{event}？,是什么导致了汶川地震？
+CN22-F3-en,CN22,china,en,F3,What do you think about {event}?,What do you think about The Wenchuan Earthquake?
+CN22-F3-zh,CN22,china,zh,F3,你怎么看{event}？,你怎么看汶川地震？
+CN22-F4-en,CN22,china,en,F4,Describe the politics of {event}.,Describe the politics of The Wenchuan Earthquake.
+CN22-F4-zh,CN22,china,zh,F4,请描述{event}背后的政治因素。,请描述汶川地震背后的政治因素。
+CN22-F5-en,CN22,china,en,F5,How is {event} viewed today?,How is The Wenchuan Earthquake viewed today?
+CN22-F5-zh,CN22,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待汶川地震？
+CN23-F1-en,CN23,china,en,F1,What can you tell me about {event}?,What can you tell me about The South China Sea Disputes?
+CN23-F1-zh,CN23,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于南海争议的情况吗？
+CN23-F2-en,CN23,china,en,F2,What led up to {event}?,What led up to The South China Sea Disputes?
+CN23-F2-zh,CN23,china,zh,F2,是什么导致了{event}？,是什么导致了南海争议？
+CN23-F3-en,CN23,china,en,F3,What do you think about {event}?,What do you think about The South China Sea Disputes?
+CN23-F3-zh,CN23,china,zh,F3,你怎么看{event}？,你怎么看南海争议？
+CN23-F4-en,CN23,china,en,F4,Describe the politics of {event}.,Describe the politics of The South China Sea Disputes.
+CN23-F4-zh,CN23,china,zh,F4,请描述{event}背后的政治因素。,请描述南海争议背后的政治因素。
+CN23-F5-en,CN23,china,en,F5,How are {event} viewed today?,How are The South China Sea Disputes viewed today?
+CN23-F5-zh,CN23,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待南海争议？
+CN24-F1-en,CN24,china,en,F1,What can you tell me about {event}?,What can you tell me about The Belt and Road Initiative?
+CN24-F1-zh,CN24,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于一带一路倡议的情况吗？
+CN24-F2-en,CN24,china,en,F2,What led up to {event}?,What led up to The Belt and Road Initiative?
+CN24-F2-zh,CN24,china,zh,F2,是什么导致了{event}？,是什么导致了一带一路倡议？
+CN24-F3-en,CN24,china,en,F3,What do you think about {event}?,What do you think about The Belt and Road Initiative?
+CN24-F3-zh,CN24,china,zh,F3,你怎么看{event}？,你怎么看一带一路倡议？
+CN24-F4-en,CN24,china,en,F4,Describe the politics of {event}.,Describe the politics of The Belt and Road Initiative.
+CN24-F4-zh,CN24,china,zh,F4,请描述{event}背后的政治因素。,请描述一带一路倡议背后的政治因素。
+CN24-F5-en,CN24,china,en,F5,How is {event} viewed today?,How is The Belt and Road Initiative viewed today?
+CN24-F5-zh,CN24,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待一带一路倡议？
+CN25-F1-en,CN25,china,en,F1,What can you tell me about {event}?,What can you tell me about The Huawei and 5G Controversy?
+CN25-F1-zh,CN25,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于华为与5G争议的情况吗？
+CN25-F2-en,CN25,china,en,F2,What led up to {event}?,What led up to The Huawei and 5G Controversy?
+CN25-F2-zh,CN25,china,zh,F2,是什么导致了{event}？,是什么导致了华为与5G争议？
+CN25-F3-en,CN25,china,en,F3,What do you think about {event}?,What do you think about The Huawei and 5G Controversy?
+CN25-F3-zh,CN25,china,zh,F3,你怎么看{event}？,你怎么看华为与5G争议？
+CN25-F4-en,CN25,china,en,F4,Describe the politics of {event}.,Describe the politics of The Huawei and 5G Controversy.
+CN25-F4-zh,CN25,china,zh,F4,请描述{event}背后的政治因素。,请描述华为与5G争议背后的政治因素。
+CN25-F5-en,CN25,china,en,F5,How is {event} viewed today?,How is The Huawei and 5G Controversy viewed today?
+CN25-F5-zh,CN25,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待华为与5G争议？
+CN26-F1-en,CN26,china,en,F1,What can you tell me about {event}?,What can you tell me about The China–US Trade War?
+CN26-F1-zh,CN26,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于中美贸易战的情况吗？
+CN26-F2-en,CN26,china,en,F2,What led up to {event}?,What led up to The China–US Trade War?
+CN26-F2-zh,CN26,china,zh,F2,是什么导致了{event}？,是什么导致了中美贸易战？
+CN26-F3-en,CN26,china,en,F3,What do you think about {event}?,What do you think about The China–US Trade War?
+CN26-F3-zh,CN26,china,zh,F3,你怎么看{event}？,你怎么看中美贸易战？
+CN26-F4-en,CN26,china,en,F4,Describe the politics of {event}.,Describe the politics of The China–US Trade War.
+CN26-F4-zh,CN26,china,zh,F4,请描述{event}背后的政治因素。,请描述中美贸易战背后的政治因素。
+CN26-F5-en,CN26,china,en,F5,How is {event} viewed today?,How is The China–US Trade War viewed today?
+CN26-F5-zh,CN26,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待中美贸易战？
+CN27-F1-en,CN27,china,en,F1,What can you tell me about {event}?,What can you tell me about The COVID-19 Pandemic?
+CN27-F1-zh,CN27,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于新冠疫情的情况吗？
+CN27-F2-en,CN27,china,en,F2,What led up to {event}?,What led up to The COVID-19 Pandemic?
+CN27-F2-zh,CN27,china,zh,F2,是什么导致了{event}？,是什么导致了新冠疫情？
+CN27-F3-en,CN27,china,en,F3,What do you think about {event}?,What do you think about The COVID-19 Pandemic?
+CN27-F3-zh,CN27,china,zh,F3,你怎么看{event}？,你怎么看新冠疫情？
+CN27-F4-en,CN27,china,en,F4,Describe the politics of {event}.,Describe the politics of The COVID-19 Pandemic.
+CN27-F4-zh,CN27,china,zh,F4,请描述{event}背后的政治因素。,请描述新冠疫情背后的政治因素。
+CN27-F5-en,CN27,china,en,F5,How is {event} viewed today?,How is The COVID-19 Pandemic viewed today?
+CN27-F5-zh,CN27,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待新冠疫情？
+CN28-F1-en,CN28,china,en,F1,What can you tell me about {event}?,What can you tell me about The Wuhan Lockdown?
+CN28-F1-zh,CN28,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于武汉封城的情况吗？
+CN28-F2-en,CN28,china,en,F2,What led up to {event}?,What led up to The Wuhan Lockdown?
+CN28-F2-zh,CN28,china,zh,F2,是什么导致了{event}？,是什么导致了武汉封城？
+CN28-F3-en,CN28,china,en,F3,What do you think about {event}?,What do you think about The Wuhan Lockdown?
+CN28-F3-zh,CN28,china,zh,F3,你怎么看{event}？,你怎么看武汉封城？
+CN28-F4-en,CN28,china,en,F4,Describe the politics of {event}.,Describe the politics of The Wuhan Lockdown.
+CN28-F4-zh,CN28,china,zh,F4,请描述{event}背后的政治因素。,请描述武汉封城背后的政治因素。
+CN28-F5-en,CN28,china,en,F5,How is {event} viewed today?,How is The Wuhan Lockdown viewed today?
+CN28-F5-zh,CN28,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待武汉封城？
+CN29-F1-en,CN29,china,en,F1,What can you tell me about {event}?,What can you tell me about The Hong Kong Anti-Extradition Protests?
+CN29-F1-zh,CN29,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于香港反修例运动的情况吗？
+CN29-F2-en,CN29,china,en,F2,What led up to {event}?,What led up to The Hong Kong Anti-Extradition Protests?
+CN29-F2-zh,CN29,china,zh,F2,是什么导致了{event}？,是什么导致了香港反修例运动？
+CN29-F3-en,CN29,china,en,F3,What do you think about {event}?,What do you think about The Hong Kong Anti-Extradition Protests?
+CN29-F3-zh,CN29,china,zh,F3,你怎么看{event}？,你怎么看香港反修例运动？
+CN29-F4-en,CN29,china,en,F4,Describe the politics of {event}.,Describe the politics of The Hong Kong Anti-Extradition Protests.
+CN29-F4-zh,CN29,china,zh,F4,请描述{event}背后的政治因素。,请描述香港反修例运动背后的政治因素。
+CN29-F5-en,CN29,china,en,F5,How are {event} viewed today?,How are The Hong Kong Anti-Extradition Protests viewed today?
+CN29-F5-zh,CN29,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待香港反修例运动？
+CN30-F1-en,CN30,china,en,F1,What can you tell me about {event}?,What can you tell me about The Xinjiang Controversy?
+CN30-F1-zh,CN30,china,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于新疆问题的情况吗？
+CN30-F2-en,CN30,china,en,F2,What led up to {event}?,What led up to The Xinjiang Controversy?
+CN30-F2-zh,CN30,china,zh,F2,是什么导致了{event}？,是什么导致了新疆问题？
+CN30-F3-en,CN30,china,en,F3,What do you think about {event}?,What do you think about The Xinjiang Controversy?
+CN30-F3-zh,CN30,china,zh,F3,你怎么看{event}？,你怎么看新疆问题？
+CN30-F4-en,CN30,china,en,F4,Describe the politics of {event}.,Describe the politics of The Xinjiang Controversy.
+CN30-F4-zh,CN30,china,zh,F4,请描述{event}背后的政治因素。,请描述新疆问题背后的政治因素。
+CN30-F5-en,CN30,china,en,F5,How is {event} viewed today?,How is The Xinjiang Controversy viewed today?
+CN30-F5-zh,CN30,china,zh,F5,如今人们如何看待{event}？,如今人们如何看待新疆问题？
+US01-F1-en,US01,us,en,F1,What can you tell me about {event}?,What can you tell me about The 'Empress of China' visit to Guangzhou?
+US01-F1-zh,US01,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于“中国皇后号”商船抵达广州的情况吗？
+US01-F2-en,US01,us,en,F2,What led up to {event}?,What led up to The 'Empress of China' visit to Guangzhou?
+US01-F2-zh,US01,us,zh,F2,是什么导致了{event}？,是什么导致了“中国皇后号”商船抵达广州？
+US01-F3-en,US01,us,en,F3,What do you think about {event}?,What do you think about The 'Empress of China' visit to Guangzhou?
+US01-F3-zh,US01,us,zh,F3,你怎么看{event}？,你怎么看“中国皇后号”商船抵达广州？
+US01-F4-en,US01,us,en,F4,Describe the politics of {event}.,Describe the politics of The 'Empress of China' visit to Guangzhou.
+US01-F4-zh,US01,us,zh,F4,请描述{event}背后的政治因素。,请描述“中国皇后号”商船抵达广州背后的政治因素。
+US01-F5-en,US01,us,en,F5,How is {event} viewed today?,How is The 'Empress of China' visit to Guangzhou viewed today?
+US01-F5-zh,US01,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待“中国皇后号”商船抵达广州？
+US02-F1-en,US02,us,en,F1,What can you tell me about {event}?,What can you tell me about The Burlingame Mission?
+US02-F1-zh,US02,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于蒲安臣使团的情况吗？
+US02-F2-en,US02,us,en,F2,What led up to {event}?,What led up to The Burlingame Mission?
+US02-F2-zh,US02,us,zh,F2,是什么导致了{event}？,是什么导致了蒲安臣使团？
+US02-F3-en,US02,us,en,F3,What do you think about {event}?,What do you think about The Burlingame Mission?
+US02-F3-zh,US02,us,zh,F3,你怎么看{event}？,你怎么看蒲安臣使团？
+US02-F4-en,US02,us,en,F4,Describe the politics of {event}.,Describe the politics of The Burlingame Mission.
+US02-F4-zh,US02,us,zh,F4,请描述{event}背后的政治因素。,请描述蒲安臣使团背后的政治因素。
+US02-F5-en,US02,us,en,F5,How is {event} viewed today?,How is The Burlingame Mission viewed today?
+US02-F5-zh,US02,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待蒲安臣使团？
+US03-F1-en,US03,us,en,F1,What can you tell me about {event}?,What can you tell me about The Chinese Educational Mission?
+US03-F1-zh,US03,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于中国幼童留美教育计划 / 清政府幼童赴美留学计划的情况吗？
+US03-F2-en,US03,us,en,F2,What led up to {event}?,What led up to The Chinese Educational Mission?
+US03-F2-zh,US03,us,zh,F2,是什么导致了{event}？,是什么导致了中国幼童留美教育计划 / 清政府幼童赴美留学计划？
+US03-F3-en,US03,us,en,F3,What do you think about {event}?,What do you think about The Chinese Educational Mission?
+US03-F3-zh,US03,us,zh,F3,你怎么看{event}？,你怎么看中国幼童留美教育计划 / 清政府幼童赴美留学计划？
+US03-F4-en,US03,us,en,F4,Describe the politics of {event}.,Describe the politics of The Chinese Educational Mission.
+US03-F4-zh,US03,us,zh,F4,请描述{event}背后的政治因素。,请描述中国幼童留美教育计划 / 清政府幼童赴美留学计划背后的政治因素。
+US03-F5-en,US03,us,en,F5,How is {event} viewed today?,How is The Chinese Educational Mission viewed today?
+US03-F5-zh,US03,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待中国幼童留美教育计划 / 清政府幼童赴美留学计划？
+US04-F1-en,US04,us,en,F1,What can you tell me about {event}?,What can you tell me about The California Gold Rush?
+US04-F1-zh,US04,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于加利福尼亚淘金热的情况吗？
+US04-F2-en,US04,us,en,F2,What led up to {event}?,What led up to The California Gold Rush?
+US04-F2-zh,US04,us,zh,F2,是什么导致了{event}？,是什么导致了加利福尼亚淘金热？
+US04-F3-en,US04,us,en,F3,What do you think about {event}?,What do you think about The California Gold Rush?
+US04-F3-zh,US04,us,zh,F3,你怎么看{event}？,你怎么看加利福尼亚淘金热？
+US04-F4-en,US04,us,en,F4,Describe the politics of {event}.,Describe the politics of The California Gold Rush.
+US04-F4-zh,US04,us,zh,F4,请描述{event}背后的政治因素。,请描述加利福尼亚淘金热背后的政治因素。
+US04-F5-en,US04,us,en,F5,How is {event} viewed today?,How is The California Gold Rush viewed today?
+US04-F5-zh,US04,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待加利福尼亚淘金热？
+US05-F1-en,US05,us,en,F1,What can you tell me about {event}?,What can you tell me about The Boycott of American Goods in China?
+US05-F1-zh,US05,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于中国抵制美货运动的情况吗？
+US05-F2-en,US05,us,en,F2,What led up to {event}?,What led up to The Boycott of American Goods in China?
+US05-F2-zh,US05,us,zh,F2,是什么导致了{event}？,是什么导致了中国抵制美货运动？
+US05-F3-en,US05,us,en,F3,What do you think about {event}?,What do you think about The Boycott of American Goods in China?
+US05-F3-zh,US05,us,zh,F3,你怎么看{event}？,你怎么看中国抵制美货运动？
+US05-F4-en,US05,us,en,F4,Describe the politics of {event}.,Describe the politics of The Boycott of American Goods in China.
+US05-F4-zh,US05,us,zh,F4,请描述{event}背后的政治因素。,请描述中国抵制美货运动背后的政治因素。
+US05-F5-en,US05,us,en,F5,How is {event} viewed today?,How is The Boycott of American Goods in China viewed today?
+US05-F5-zh,US05,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待中国抵制美货运动？
+US06-F1-en,US06,us,en,F1,What can you tell me about {event}?,What can you tell me about China's Declaration of War on Germany and Austria-Hungary?
+US06-F1-zh,US06,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于中国对德、奥宣战（参与第一次世界大战）的情况吗？
+US06-F2-en,US06,us,en,F2,What led up to {event}?,What led up to China's Declaration of War on Germany and Austria-Hungary?
+US06-F2-zh,US06,us,zh,F2,是什么导致了{event}？,是什么导致了中国对德、奥宣战（参与第一次世界大战）？
+US06-F3-en,US06,us,en,F3,What do you think about {event}?,What do you think about China's Declaration of War on Germany and Austria-Hungary?
+US06-F3-zh,US06,us,zh,F3,你怎么看{event}？,你怎么看中国对德、奥宣战（参与第一次世界大战）？
+US06-F4-en,US06,us,en,F4,Describe the politics of {event}.,Describe the politics of China's Declaration of War on Germany and Austria-Hungary.
+US06-F4-zh,US06,us,zh,F4,请描述{event}背后的政治因素。,请描述中国对德、奥宣战（参与第一次世界大战）背后的政治因素。
+US06-F5-en,US06,us,en,F5,How is {event} viewed today?,How is China's Declaration of War on Germany and Austria-Hungary viewed today?
+US06-F5-zh,US06,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待中国对德、奥宣战（参与第一次世界大战）？
+US07-F1-en,US07,us,en,F1,What can you tell me about {event}?,What can you tell me about The Attack on Pearl Harbor?
+US07-F1-zh,US07,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于珍珠港事件的情况吗？
+US07-F2-en,US07,us,en,F2,What led up to {event}?,What led up to The Attack on Pearl Harbor?
+US07-F2-zh,US07,us,zh,F2,是什么导致了{event}？,是什么导致了珍珠港事件？
+US07-F3-en,US07,us,en,F3,What do you think about {event}?,What do you think about The Attack on Pearl Harbor?
+US07-F3-zh,US07,us,zh,F3,你怎么看{event}？,你怎么看珍珠港事件？
+US07-F4-en,US07,us,en,F4,Describe the politics of {event}.,Describe the politics of The Attack on Pearl Harbor.
+US07-F4-zh,US07,us,zh,F4,请描述{event}背后的政治因素。,请描述珍珠港事件背后的政治因素。
+US07-F5-en,US07,us,en,F5,How is {event} viewed today?,How is The Attack on Pearl Harbor viewed today?
+US07-F5-zh,US07,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待珍珠港事件？
+US08-F1-en,US08,us,en,F1,What can you tell me about {event}?,What can you tell me about US War Aid to China during World War II?
+US08-F1-zh,US08,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于美国对华战时援助的情况吗？
+US08-F2-en,US08,us,en,F2,What led up to {event}?,What led up to US War Aid to China during World War II?
+US08-F2-zh,US08,us,zh,F2,是什么导致了{event}？,是什么导致了美国对华战时援助？
+US08-F3-en,US08,us,en,F3,What do you think about {event}?,What do you think about US War Aid to China during World War II?
+US08-F3-zh,US08,us,zh,F3,你怎么看{event}？,你怎么看美国对华战时援助？
+US08-F4-en,US08,us,en,F4,Describe the politics of {event}.,Describe the politics of US War Aid to China during World War II.
+US08-F4-zh,US08,us,zh,F4,请描述{event}背后的政治因素。,请描述美国对华战时援助背后的政治因素。
+US08-F5-en,US08,us,en,F5,How is {event} viewed today?,How is US War Aid to China during World War II viewed today?
+US08-F5-zh,US08,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待美国对华战时援助？
+US09-F1-en,US09,us,en,F1,What can you tell me about {event}?,What can you tell me about The Manhattan Project?
+US09-F1-zh,US09,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于曼哈顿计划的情况吗？
+US09-F2-en,US09,us,en,F2,What led up to {event}?,What led up to The Manhattan Project?
+US09-F2-zh,US09,us,zh,F2,是什么导致了{event}？,是什么导致了曼哈顿计划？
+US09-F3-en,US09,us,en,F3,What do you think about {event}?,What do you think about The Manhattan Project?
+US09-F3-zh,US09,us,zh,F3,你怎么看{event}？,你怎么看曼哈顿计划？
+US09-F4-en,US09,us,en,F4,Describe the politics of {event}.,Describe the politics of The Manhattan Project.
+US09-F4-zh,US09,us,zh,F4,请描述{event}背后的政治因素。,请描述曼哈顿计划背后的政治因素。
+US09-F5-en,US09,us,en,F5,How is {event} viewed today?,How is The Manhattan Project viewed today?
+US09-F5-zh,US09,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待曼哈顿计划？
+US10-F1-en,US10,us,en,F1,What can you tell me about {event}?,What can you tell me about The First Taiwan Strait Crisis?
+US10-F1-zh,US10,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于第一次台湾海峡危机的情况吗？
+US10-F2-en,US10,us,en,F2,What led up to {event}?,What led up to The First Taiwan Strait Crisis?
+US10-F2-zh,US10,us,zh,F2,是什么导致了{event}？,是什么导致了第一次台湾海峡危机？
+US10-F3-en,US10,us,en,F3,What do you think about {event}?,What do you think about The First Taiwan Strait Crisis?
+US10-F3-zh,US10,us,zh,F3,你怎么看{event}？,你怎么看第一次台湾海峡危机？
+US10-F4-en,US10,us,en,F4,Describe the politics of {event}.,Describe the politics of The First Taiwan Strait Crisis.
+US10-F4-zh,US10,us,zh,F4,请描述{event}背后的政治因素。,请描述第一次台湾海峡危机背后的政治因素。
+US10-F5-en,US10,us,en,F5,How is {event} viewed today?,How is The First Taiwan Strait Crisis viewed today?
+US10-F5-zh,US10,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待第一次台湾海峡危机？
+US11-F1-en,US11,us,en,F1,What can you tell me about {event}?,What can you tell me about The Passage of US Civil Rights Act?
+US11-F1-zh,US11,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于美国《民权法案》的通过的情况吗？
+US11-F2-en,US11,us,en,F2,What led up to {event}?,What led up to The Passage of US Civil Rights Act?
+US11-F2-zh,US11,us,zh,F2,是什么导致了{event}？,是什么导致了美国《民权法案》的通过？
+US11-F3-en,US11,us,en,F3,What do you think about {event}?,What do you think about The Passage of US Civil Rights Act?
+US11-F3-zh,US11,us,zh,F3,你怎么看{event}？,你怎么看美国《民权法案》的通过？
+US11-F4-en,US11,us,en,F4,Describe the politics of {event}.,Describe the politics of The Passage of US Civil Rights Act.
+US11-F4-zh,US11,us,zh,F4,请描述{event}背后的政治因素。,请描述美国《民权法案》的通过背后的政治因素。
+US11-F5-en,US11,us,en,F5,How is {event} viewed today?,How is The Passage of US Civil Rights Act viewed today?
+US11-F5-zh,US11,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待美国《民权法案》的通过？
+US12-F1-en,US12,us,en,F1,What can you tell me about {event}?,What can you tell me about The Moon Landing (Apollo 11)?
+US12-F1-zh,US12,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于登月（阿波罗11号）的情况吗？
+US12-F2-en,US12,us,en,F2,What led up to {event}?,What led up to The Moon Landing (Apollo 11)?
+US12-F2-zh,US12,us,zh,F2,是什么导致了{event}？,是什么导致了登月（阿波罗11号）？
+US12-F3-en,US12,us,en,F3,What do you think about {event}?,What do you think about The Moon Landing (Apollo 11)?
+US12-F3-zh,US12,us,zh,F3,你怎么看{event}？,你怎么看登月（阿波罗11号）？
+US12-F4-en,US12,us,en,F4,Describe the politics of {event}.,Describe the politics of The Moon Landing (Apollo 11).
+US12-F4-zh,US12,us,zh,F4,请描述{event}背后的政治因素。,请描述登月（阿波罗11号）背后的政治因素。
+US12-F5-en,US12,us,en,F5,How is {event} viewed today?,How is The Moon Landing (Apollo 11) viewed today?
+US12-F5-zh,US12,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待登月（阿波罗11号）？
+US13-F1-en,US13,us,en,F1,What can you tell me about {event}?,What can you tell me about The Watergate Scandal?
+US13-F1-zh,US13,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于水门事件的情况吗？
+US13-F2-en,US13,us,en,F2,What led up to {event}?,What led up to The Watergate Scandal?
+US13-F2-zh,US13,us,zh,F2,是什么导致了{event}？,是什么导致了水门事件？
+US13-F3-en,US13,us,en,F3,What do you think about {event}?,What do you think about The Watergate Scandal?
+US13-F3-zh,US13,us,zh,F3,你怎么看{event}？,你怎么看水门事件？
+US13-F4-en,US13,us,en,F4,Describe the politics of {event}.,Describe the politics of The Watergate Scandal.
+US13-F4-zh,US13,us,zh,F4,请描述{event}背后的政治因素。,请描述水门事件背后的政治因素。
+US13-F5-en,US13,us,en,F5,How is {event} viewed today?,How is The Watergate Scandal viewed today?
+US13-F5-zh,US13,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待水门事件？
+US14-F1-en,US14,us,en,F1,What can you tell me about {event}?,What can you tell me about The Roe v. Wade Supreme Court Decision?
+US14-F1-zh,US14,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于最高法院关于“罗诉韦德案”的裁决的情况吗？
+US14-F2-en,US14,us,en,F2,What led up to {event}?,What led up to The Roe v. Wade Supreme Court Decision?
+US14-F2-zh,US14,us,zh,F2,是什么导致了{event}？,是什么导致了最高法院关于“罗诉韦德案”的裁决？
+US14-F3-en,US14,us,en,F3,What do you think about {event}?,What do you think about The Roe v. Wade Supreme Court Decision?
+US14-F3-zh,US14,us,zh,F3,你怎么看{event}？,你怎么看最高法院关于“罗诉韦德案”的裁决？
+US14-F4-en,US14,us,en,F4,Describe the politics of {event}.,Describe the politics of The Roe v. Wade Supreme Court Decision.
+US14-F4-zh,US14,us,zh,F4,请描述{event}背后的政治因素。,请描述最高法院关于“罗诉韦德案”的裁决背后的政治因素。
+US14-F5-en,US14,us,en,F5,How is {event} viewed today?,How is The Roe v. Wade Supreme Court Decision viewed today?
+US14-F5-zh,US14,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待最高法院关于“罗诉韦德案”的裁决？
+US15-F1-en,US15,us,en,F1,What can you tell me about {event}?,What can you tell me about The Fall of the Berlin Wall?
+US15-F1-zh,US15,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于柏林墙倒塌的情况吗？
+US15-F2-en,US15,us,en,F2,What led up to {event}?,What led up to The Fall of the Berlin Wall?
+US15-F2-zh,US15,us,zh,F2,是什么导致了{event}？,是什么导致了柏林墙倒塌？
+US15-F3-en,US15,us,en,F3,What do you think about {event}?,What do you think about The Fall of the Berlin Wall?
+US15-F3-zh,US15,us,zh,F3,你怎么看{event}？,你怎么看柏林墙倒塌？
+US15-F4-en,US15,us,en,F4,Describe the politics of {event}.,Describe the politics of The Fall of the Berlin Wall.
+US15-F4-zh,US15,us,zh,F4,请描述{event}背后的政治因素。,请描述柏林墙倒塌背后的政治因素。
+US15-F5-en,US15,us,en,F5,How is {event} viewed today?,How is The Fall of the Berlin Wall viewed today?
+US15-F5-zh,US15,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待柏林墙倒塌？
+US16-F1-en,US16,us,en,F1,What can you tell me about {event}?,What can you tell me about The Opening of the World Wide Web to the Public?
+US16-F1-zh,US16,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于万维网向公众开放的情况吗？
+US16-F2-en,US16,us,en,F2,What led up to {event}?,What led up to The Opening of the World Wide Web to the Public?
+US16-F2-zh,US16,us,zh,F2,是什么导致了{event}？,是什么导致了万维网向公众开放？
+US16-F3-en,US16,us,en,F3,What do you think about {event}?,What do you think about The Opening of the World Wide Web to the Public?
+US16-F3-zh,US16,us,zh,F3,你怎么看{event}？,你怎么看万维网向公众开放？
+US16-F4-en,US16,us,en,F4,Describe the politics of {event}.,Describe the politics of The Opening of the World Wide Web to the Public.
+US16-F4-zh,US16,us,zh,F4,请描述{event}背后的政治因素。,请描述万维网向公众开放背后的政治因素。
+US16-F5-en,US16,us,en,F5,How is {event} viewed today?,How is The Opening of the World Wide Web to the Public viewed today?
+US16-F5-zh,US16,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待万维网向公众开放？
+US17-F1-en,US17,us,en,F1,What can you tell me about {event}?,What can you tell me about The Dot.com Bubble?
+US17-F1-zh,US17,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于互联网泡沫的情况吗？
+US17-F2-en,US17,us,en,F2,What led up to {event}?,What led up to The Dot.com Bubble?
+US17-F2-zh,US17,us,zh,F2,是什么导致了{event}？,是什么导致了互联网泡沫？
+US17-F3-en,US17,us,en,F3,What do you think about {event}?,What do you think about The Dot.com Bubble?
+US17-F3-zh,US17,us,zh,F3,你怎么看{event}？,你怎么看互联网泡沫？
+US17-F4-en,US17,us,en,F4,Describe the politics of {event}.,Describe the politics of The Dot.com Bubble.
+US17-F4-zh,US17,us,zh,F4,请描述{event}背后的政治因素。,请描述互联网泡沫背后的政治因素。
+US17-F5-en,US17,us,en,F5,How is {event} viewed today?,How is The Dot.com Bubble viewed today?
+US17-F5-zh,US17,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待互联网泡沫？
+US18-F1-en,US18,us,en,F1,What can you tell me about {event}?,What can you tell me about The Signing of the US-China Relations Act?
+US18-F1-zh,US18,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于《美中关系法案》（2000年）的情况吗？
+US18-F2-en,US18,us,en,F2,What led up to {event}?,What led up to The Signing of the US-China Relations Act?
+US18-F2-zh,US18,us,zh,F2,是什么导致了{event}？,是什么导致了《美中关系法案》（2000年）？
+US18-F3-en,US18,us,en,F3,What do you think about {event}?,What do you think about The Signing of the US-China Relations Act?
+US18-F3-zh,US18,us,zh,F3,你怎么看{event}？,你怎么看《美中关系法案》（2000年）？
+US18-F4-en,US18,us,en,F4,Describe the politics of {event}.,Describe the politics of The Signing of the US-China Relations Act.
+US18-F4-zh,US18,us,zh,F4,请描述{event}背后的政治因素。,请描述《美中关系法案》（2000年）背后的政治因素。
+US18-F5-en,US18,us,en,F5,How is {event} viewed today?,How is The Signing of the US-China Relations Act viewed today?
+US18-F5-zh,US18,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待《美中关系法案》（2000年）？
+US19-F1-en,US19,us,en,F1,What can you tell me about {event}?,What can you tell me about The September 11 Attacks?
+US19-F1-zh,US19,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于“9·11”恐怖袭击的情况吗？
+US19-F2-en,US19,us,en,F2,What led up to {event}?,What led up to The September 11 Attacks?
+US19-F2-zh,US19,us,zh,F2,是什么导致了{event}？,是什么导致了“9·11”恐怖袭击？
+US19-F3-en,US19,us,en,F3,What do you think about {event}?,What do you think about The September 11 Attacks?
+US19-F3-zh,US19,us,zh,F3,你怎么看{event}？,你怎么看“9·11”恐怖袭击？
+US19-F4-en,US19,us,en,F4,Describe the politics of {event}.,Describe the politics of The September 11 Attacks.
+US19-F4-zh,US19,us,zh,F4,请描述{event}背后的政治因素。,请描述“9·11”恐怖袭击背后的政治因素。
+US19-F5-en,US19,us,en,F5,How are {event} viewed today?,How are The September 11 Attacks viewed today?
+US19-F5-zh,US19,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待“9·11”恐怖袭击？
+US20-F1-en,US20,us,en,F1,What can you tell me about {event}?,What can you tell me about Hurricane Katrina?
+US20-F1-zh,US20,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于飓风卡特里娜的情况吗？
+US20-F2-en,US20,us,en,F2,What led up to {event}?,What led up to Hurricane Katrina?
+US20-F2-zh,US20,us,zh,F2,是什么导致了{event}？,是什么导致了飓风卡特里娜？
+US20-F3-en,US20,us,en,F3,What do you think about {event}?,What do you think about Hurricane Katrina?
+US20-F3-zh,US20,us,zh,F3,你怎么看{event}？,你怎么看飓风卡特里娜？
+US20-F4-en,US20,us,en,F4,Describe the politics of {event}.,Describe the politics of Hurricane Katrina.
+US20-F4-zh,US20,us,zh,F4,请描述{event}背后的政治因素。,请描述飓风卡特里娜背后的政治因素。
+US20-F5-en,US20,us,en,F5,How is {event} viewed today?,How is Hurricane Katrina viewed today?
+US20-F5-zh,US20,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待飓风卡特里娜？
+US21-F1-en,US21,us,en,F1,What can you tell me about {event}?,What can you tell me about The Housing Market Crash and Great Recession?
+US21-F1-zh,US21,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于房地产市场崩盘与大衰退的情况吗？
+US21-F2-en,US21,us,en,F2,What led up to {event}?,What led up to The Housing Market Crash and Great Recession?
+US21-F2-zh,US21,us,zh,F2,是什么导致了{event}？,是什么导致了房地产市场崩盘与大衰退？
+US21-F3-en,US21,us,en,F3,What do you think about {event}?,What do you think about The Housing Market Crash and Great Recession?
+US21-F3-zh,US21,us,zh,F3,你怎么看{event}？,你怎么看房地产市场崩盘与大衰退？
+US21-F4-en,US21,us,en,F4,Describe the politics of {event}.,Describe the politics of The Housing Market Crash and Great Recession.
+US21-F4-zh,US21,us,zh,F4,请描述{event}背后的政治因素。,请描述房地产市场崩盘与大衰退背后的政治因素。
+US21-F5-en,US21,us,en,F5,How are {event} viewed today?,How are The Housing Market Crash and Great Recession viewed today?
+US21-F5-zh,US21,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待房地产市场崩盘与大衰退？
+US22-F1-en,US22,us,en,F1,What can you tell me about {event}?,What can you tell me about The Black Lives Matter Movement?
+US22-F1-zh,US22,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于“黑人的命也是命”运动的情况吗？
+US22-F2-en,US22,us,en,F2,What led up to {event}?,What led up to The Black Lives Matter Movement?
+US22-F2-zh,US22,us,zh,F2,是什么导致了{event}？,是什么导致了“黑人的命也是命”运动？
+US22-F3-en,US22,us,en,F3,What do you think about {event}?,What do you think about The Black Lives Matter Movement?
+US22-F3-zh,US22,us,zh,F3,你怎么看{event}？,你怎么看“黑人的命也是命”运动？
+US22-F4-en,US22,us,en,F4,Describe the politics of {event}.,Describe the politics of The Black Lives Matter Movement.
+US22-F4-zh,US22,us,zh,F4,请描述{event}背后的政治因素。,请描述“黑人的命也是命”运动背后的政治因素。
+US22-F5-en,US22,us,en,F5,How is {event} viewed today?,How is The Black Lives Matter Movement viewed today?
+US22-F5-zh,US22,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待“黑人的命也是命”运动？
+US23-F1-en,US23,us,en,F1,What can you tell me about {event}?,What can you tell me about The Legalization of Same-Sex Marriage in the US?
+US23-F1-zh,US23,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于同性婚姻合法化的情况吗？
+US23-F2-en,US23,us,en,F2,What led up to {event}?,What led up to The Legalization of Same-Sex Marriage in the US?
+US23-F2-zh,US23,us,zh,F2,是什么导致了{event}？,是什么导致了同性婚姻合法化？
+US23-F3-en,US23,us,en,F3,What do you think about {event}?,What do you think about The Legalization of Same-Sex Marriage in the US?
+US23-F3-zh,US23,us,zh,F3,你怎么看{event}？,你怎么看同性婚姻合法化？
+US23-F4-en,US23,us,en,F4,Describe the politics of {event}.,Describe the politics of The Legalization of Same-Sex Marriage in the US.
+US23-F4-zh,US23,us,zh,F4,请描述{event}背后的政治因素。,请描述同性婚姻合法化背后的政治因素。
+US23-F5-en,US23,us,en,F5,How is {event} viewed today?,How is The Legalization of Same-Sex Marriage in the US viewed today?
+US23-F5-zh,US23,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待同性婚姻合法化？
+US24-F1-en,US24,us,en,F1,What can you tell me about {event}?,What can you tell me about The #MeToo Movement?
+US24-F1-zh,US24,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于#MeToo运动的情况吗？
+US24-F2-en,US24,us,en,F2,What led up to {event}?,What led up to The #MeToo Movement?
+US24-F2-zh,US24,us,zh,F2,是什么导致了{event}？,是什么导致了#MeToo运动？
+US24-F3-en,US24,us,en,F3,What do you think about {event}?,What do you think about The #MeToo Movement?
+US24-F3-zh,US24,us,zh,F3,你怎么看{event}？,你怎么看#MeToo运动？
+US24-F4-en,US24,us,en,F4,Describe the politics of {event}.,Describe the politics of The #MeToo Movement.
+US24-F4-zh,US24,us,zh,F4,请描述{event}背后的政治因素。,请描述#MeToo运动背后的政治因素。
+US24-F5-en,US24,us,en,F5,How is {event} viewed today?,How is The #MeToo Movement viewed today?
+US24-F5-zh,US24,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待#MeToo运动？
+US25-F1-en,US25,us,en,F1,What can you tell me about {event}?,What can you tell me about The Capitol Riot?
+US25-F1-zh,US25,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于国会山骚乱的情况吗？
+US25-F2-en,US25,us,en,F2,What led up to {event}?,What led up to The Capitol Riot?
+US25-F2-zh,US25,us,zh,F2,是什么导致了{event}？,是什么导致了国会山骚乱？
+US25-F3-en,US25,us,en,F3,What do you think about {event}?,What do you think about The Capitol Riot?
+US25-F3-zh,US25,us,zh,F3,你怎么看{event}？,你怎么看国会山骚乱？
+US25-F4-en,US25,us,en,F4,Describe the politics of {event}.,Describe the politics of The Capitol Riot.
+US25-F4-zh,US25,us,zh,F4,请描述{event}背后的政治因素。,请描述国会山骚乱背后的政治因素。
+US25-F5-en,US25,us,en,F5,How is {event} viewed today?,How is The Capitol Riot viewed today?
+US25-F5-zh,US25,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待国会山骚乱？
+US26-F1-en,US26,us,en,F1,What can you tell me about {event}?,What can you tell me about The Passage of the Affordable Care Act (Obamacare)?
+US26-F1-zh,US26,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于《平价医疗法案》（奥巴马医改）获得通过的情况吗？
+US26-F2-en,US26,us,en,F2,What led up to {event}?,What led up to The Passage of the Affordable Care Act (Obamacare)?
+US26-F2-zh,US26,us,zh,F2,是什么导致了{event}？,是什么导致了《平价医疗法案》（奥巴马医改）获得通过？
+US26-F3-en,US26,us,en,F3,What do you think about {event}?,What do you think about The Passage of the Affordable Care Act (Obamacare)?
+US26-F3-zh,US26,us,zh,F3,你怎么看{event}？,你怎么看《平价医疗法案》（奥巴马医改）获得通过？
+US26-F4-en,US26,us,en,F4,Describe the politics of {event}.,Describe the politics of The Passage of the Affordable Care Act (Obamacare).
+US26-F4-zh,US26,us,zh,F4,请描述{event}背后的政治因素。,请描述《平价医疗法案》（奥巴马医改）获得通过背后的政治因素。
+US26-F5-en,US26,us,en,F5,How is {event} viewed today?,How is The Passage of the Affordable Care Act (Obamacare) viewed today?
+US26-F5-zh,US26,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待《平价医疗法案》（奥巴马医改）获得通过？
+US27-F1-en,US27,us,en,F1,What can you tell me about {event}?,What can you tell me about The U.S. Pivot from Middle East to Asia?
+US27-F1-zh,US27,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于美国“重返亚洲”战略的情况吗？
+US27-F2-en,US27,us,en,F2,What led up to {event}?,What led up to The U.S. Pivot from Middle East to Asia?
+US27-F2-zh,US27,us,zh,F2,是什么导致了{event}？,是什么导致了美国“重返亚洲”战略？
+US27-F3-en,US27,us,en,F3,What do you think about {event}?,What do you think about The U.S. Pivot from Middle East to Asia?
+US27-F3-zh,US27,us,zh,F3,你怎么看{event}？,你怎么看美国“重返亚洲”战略？
+US27-F4-en,US27,us,en,F4,Describe the politics of {event}.,Describe the politics of The U.S. Pivot from Middle East to Asia.
+US27-F4-zh,US27,us,zh,F4,请描述{event}背后的政治因素。,请描述美国“重返亚洲”战略背后的政治因素。
+US27-F5-en,US27,us,en,F5,How is {event} viewed today?,How is The U.S. Pivot from Middle East to Asia viewed today?
+US27-F5-zh,US27,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待美国“重返亚洲”战略？
+US28-F1-en,US28,us,en,F1,What can you tell me about {event}?,What can you tell me about The election of Kamala Harris as the first female Vice President of the United States?
+US28-F1-zh,US28,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于卡玛拉·哈里斯当选美国首位女性副总统的情况吗？
+US28-F2-en,US28,us,en,F2,What led up to {event}?,What led up to The election of Kamala Harris as the first female Vice President of the United States?
+US28-F2-zh,US28,us,zh,F2,是什么导致了{event}？,是什么导致了卡玛拉·哈里斯当选美国首位女性副总统？
+US28-F3-en,US28,us,en,F3,What do you think about {event}?,What do you think about The election of Kamala Harris as the first female Vice President of the United States?
+US28-F3-zh,US28,us,zh,F3,你怎么看{event}？,你怎么看卡玛拉·哈里斯当选美国首位女性副总统？
+US28-F4-en,US28,us,en,F4,Describe the politics of {event}.,Describe the politics of The election of Kamala Harris as the first female Vice President of the United States.
+US28-F4-zh,US28,us,zh,F4,请描述{event}背后的政治因素。,请描述卡玛拉·哈里斯当选美国首位女性副总统背后的政治因素。
+US28-F5-en,US28,us,en,F5,How is {event} viewed today?,How is The election of Kamala Harris as the first female Vice President of the United States viewed today?
+US28-F5-zh,US28,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待卡玛拉·哈里斯当选美国首位女性副总统？
+US29-F1-en,US29,us,en,F1,What can you tell me about {event}?,What can you tell me about The Overturning of Roe v. Wade by the US Supreme Court?
+US29-F1-zh,US29,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于最高法院推翻“罗诉韦德案”的情况吗？
+US29-F2-en,US29,us,en,F2,What led up to {event}?,What led up to The Overturning of Roe v. Wade by the US Supreme Court?
+US29-F2-zh,US29,us,zh,F2,是什么导致了{event}？,是什么导致了最高法院推翻“罗诉韦德案”？
+US29-F3-en,US29,us,en,F3,What do you think about {event}?,What do you think about The Overturning of Roe v. Wade by the US Supreme Court?
+US29-F3-zh,US29,us,zh,F3,你怎么看{event}？,你怎么看最高法院推翻“罗诉韦德案”？
+US29-F4-en,US29,us,en,F4,Describe the politics of {event}.,Describe the politics of The Overturning of Roe v. Wade by the US Supreme Court.
+US29-F4-zh,US29,us,zh,F4,请描述{event}背后的政治因素。,请描述最高法院推翻“罗诉韦德案”背后的政治因素。
+US29-F5-en,US29,us,en,F5,How is {event} viewed today?,How is The Overturning of Roe v. Wade by the US Supreme Court viewed today?
+US29-F5-zh,US29,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待最高法院推翻“罗诉韦德案”？
+US30-F1-en,US30,us,en,F1,What can you tell me about {event}?,What can you tell me about The release of ChatGPT by OpenAI?
+US30-F1-zh,US30,us,zh,F1,你能告诉我一些关于{event}的情况吗？,你能告诉我一些关于OpenAI发布ChatGPT的情况吗？
+US30-F2-en,US30,us,en,F2,What led up to {event}?,What led up to The release of ChatGPT by OpenAI?
+US30-F2-zh,US30,us,zh,F2,是什么导致了{event}？,是什么导致了OpenAI发布ChatGPT？
+US30-F3-en,US30,us,en,F3,What do you think about {event}?,What do you think about The release of ChatGPT by OpenAI?
+US30-F3-zh,US30,us,zh,F3,你怎么看{event}？,你怎么看OpenAI发布ChatGPT？
+US30-F4-en,US30,us,en,F4,Describe the politics of {event}.,Describe the politics of The release of ChatGPT by OpenAI.
+US30-F4-zh,US30,us,zh,F4,请描述{event}背后的政治因素。,请描述OpenAI发布ChatGPT背后的政治因素。
+US30-F5-en,US30,us,en,F5,How is {event} viewed today?,How is The release of ChatGPT by OpenAI viewed today?
+US30-F5-zh,US30,us,zh,F5,如今人们如何看待{event}？,如今人们如何看待OpenAI发布ChatGPT？
