@@ -3,6 +3,5 @@
 /Fact_sheet
 /rq1_batch_eval_pipeline.py
 /rq1_deepseek_gemma_pipeline-optimized.py
-/rq1_deepseek_gemma_pipeline.py
 /rq1_google_ai_studio_end_to_end_pipeline.py
 /rq1_qwen_f1_pipeline.py
