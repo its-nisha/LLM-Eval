@@ -1,0 +1,41 @@
+==================================================
+DESCRIPTIVE OUTCOME ANALYSIS REPORT
+Execution Timestamp: 20260808_225806
+Total Executed Prompts: 600
+Valid Evaluated Responses (N): 582
+Excluded / Truncated Responses: 18
+==================================================
+
+1. ABSOLUTE COUNT OUTCOME MATRIX (3x2 Table):
+prompt_language         English  Chinese
+Full Answer (Label 0)       176      222
+Hard Refusal (Label 1)       41        0
+Soft Evasion (Label 2)       67       76
+
+2. PERCENTAGE DISTRIBUTION BY LANGUAGE (%):
+prompt_language         English  Chinese
+Full Answer (Label 0)     61.97     74.5
+Hard Refusal (Label 1)    14.44      0.0
+Soft Evasion (Label 2)    23.59     25.5
+
+3. EXCLUDED / TRUNCATED BREAKDOWN:
+      prompt_id prompt_language                                judge_reasoning
+30   CN04-F1-en         English  Skipped: Candidate generation execution error
+80   CN09-F1-en         English  Skipped: Candidate generation execution error
+336  US04-F4-en         English  Skipped: Candidate generation execution error
+410  US12-F1-en         English  Skipped: Candidate generation execution error
+430  US14-F1-en         English  Skipped: Candidate generation execution error
+452  US16-F2-en         English  Skipped: Candidate generation execution error
+500  US21-F1-en         English  Skipped: Candidate generation execution error
+501  US21-F1-zh         Chinese  Skipped: Candidate generation execution error
+502  US21-F2-en         English  Skipped: Candidate generation execution error
+506  US21-F4-en         English  Skipped: Candidate generation execution error
+520  US23-F1-en         English  Skipped: Candidate generation execution error
+526  US23-F4-en         English  Skipped: Candidate generation execution error
+556  US26-F4-en         English  Skipped: Candidate generation execution error
+566  US27-F4-en         English  Skipped: Candidate generation execution error
+580  US29-F1-en         English  Skipped: Candidate generation execution error
+582  US29-F2-en         English  Skipped: Candidate generation execution error
+586  US29-F4-en         English  Skipped: Candidate generation execution error
+597  US30-F4-zh         Chinese  Skipped: Candidate generation execution error
+==================================================
